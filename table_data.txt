@@ -1,0 +1,4 @@
+product id	Barcode	Quantity	product name	product price	discount	
+1	21	12	sname	14.0	0.0	
+1	21	12	sname	14.0	0.0	
+1	21	12	sname	14.0	0.0	
